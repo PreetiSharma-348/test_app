@@ -1,0 +1,2 @@
+Git is very important in our day to day coding activities.
+As we commit change sto the code as well as write all different types of code at one place for easy access and to send in production
